@@ -1,1 +1,1 @@
-# bo-mendez-mini-assignment-5
+# Simple React Counter
